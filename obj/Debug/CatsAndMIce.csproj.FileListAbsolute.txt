@@ -1,0 +1,9 @@
+C:\Users\juanangel\documents\visual studio 2017\Projects\CatsAndMIce\CatsAndMIce\bin\Debug\CatsAndMice.exe.config
+C:\Users\juanangel\documents\visual studio 2017\Projects\CatsAndMIce\CatsAndMIce\bin\Debug\CatsAndMice.exe
+C:\Users\juanangel\documents\visual studio 2017\Projects\CatsAndMIce\CatsAndMIce\bin\Debug\CatsAndMice.pdb
+C:\Users\juanangel\documents\visual studio 2017\Projects\CatsAndMIce\CatsAndMIce\obj\Debug\CatsAndMice.Properties.Resources.resources
+C:\Users\juanangel\documents\visual studio 2017\Projects\CatsAndMIce\CatsAndMIce\obj\Debug\CatsAndMIce.csproj.GenerateResource.Cache
+C:\Users\juanangel\documents\visual studio 2017\Projects\CatsAndMIce\CatsAndMIce\obj\Debug\CatsAndMice.exe
+C:\Users\juanangel\documents\visual studio 2017\Projects\CatsAndMIce\CatsAndMIce\obj\Debug\CatsAndMice.pdb
+C:\Users\juanangel\Documents\Visual Studio 2017\Projects\CatsAndMIce\CatsAndMIce\obj\Debug\CatsAndMice.CatsAndMiceForm.resources
+C:\Users\juanangel\documents\visual studio 2017\Projects\CatsAndMIce\CatsAndMIce\obj\Debug\CatsAndMIce.csprojResolveAssemblyReference.cache

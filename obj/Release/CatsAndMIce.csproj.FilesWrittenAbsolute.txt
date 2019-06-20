@@ -1,0 +1,8 @@
+/home/rani/Documents/RaniiAndMice/JuegoProgramacion2/JuegoProgramacion/CatsAndMiceEnun/obj/Release/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/rani/Documents/RaniiAndMice/JuegoProgramacion2/JuegoProgramacion/CatsAndMiceEnun/obj/Release/CatsAndMice.CatsAndMiceForm.resources
+/home/rani/Documents/RaniiAndMice/JuegoProgramacion2/JuegoProgramacion/CatsAndMiceEnun/obj/Release/CatsAndMice.Properties.Resources.resources
+/home/rani/Documents/RaniiAndMice/JuegoProgramacion2/JuegoProgramacion/CatsAndMiceEnun/bin/Release/CatsAndMice.exe.config
+/home/rani/Documents/RaniiAndMice/JuegoProgramacion2/JuegoProgramacion/CatsAndMiceEnun/bin/Release/CatsAndMice.pdb
+/home/rani/Documents/RaniiAndMice/JuegoProgramacion2/JuegoProgramacion/CatsAndMiceEnun/bin/Release/CatsAndMice.exe
+/home/rani/Documents/RaniiAndMice/JuegoProgramacion2/JuegoProgramacion/CatsAndMiceEnun/obj/Release/CatsAndMice.exe
+/home/rani/Documents/RaniiAndMice/JuegoProgramacion2/JuegoProgramacion/CatsAndMiceEnun/obj/Release/CatsAndMice.pdb

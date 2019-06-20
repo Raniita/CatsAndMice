@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2017.2/system/resharper-host/local/Transient/ReSharperHost/v10/SolutionCaches/_CatsAndMiceEnun1.-1187389682.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="Cat.cs" t="Include" />
+      <e p="CatsAndMIce.csproj" t="IncludeRecursive" />
+      <e p="CatsAndMiceEnun1.sln" t="IncludeFlat" />
+      <e p="Form1.Designer.cs" t="Include" />
+      <e p="Form1.cs" t="Include" />
+      <e p="Form1.resx" t="Include" />
+      <e p="Fruit.cs" t="Include" />
+      <e p="GameEventArgs.cs" t="Include" />
+      <e p="GameItem.cs" t="Include" />
+      <e p="GameItemView.cs" t="Include" />
+      <e p="GameLogic.cs" t="Include" />
+      <e p="IElementView.cs" t="Include" />
+      <e p="IGameItem.cs" t="Include" />
+      <e p="IGameLogic.cs" t="Include" />
+      <e p="IGameObserver.cs" t="Include" />
+      <e p="IMovableItem.cs" t="Include" />
+      <e p="ItemCoordinates.cs" t="Include" />
+      <e p="Mouse.cs" t="Include" />
+      <e p="Poisson.cs" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+      <e p="SmartMouse.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="resources" t="Include" />
+    </e>
+  </component>
+</project>
